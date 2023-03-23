@@ -1,0 +1,14 @@
+{
+  "name": "pesu-scraper",
+  "version": "1.0.0",
+  "description": "Testing scraping possibilities.",
+  "main": "scrapeTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZAKI-1337",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
